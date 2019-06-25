@@ -23,6 +23,9 @@ nano .bash_profile
 
 
 #python
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+
 brew install pyenv
 brew install python
 brew install python3
@@ -32,14 +35,25 @@ brew cask install anaconda
 brew install r
 brew cast install rstudio
 
-#qgis
+#GIS
 brew tap osgeo/osgeo4mac
+ulimit -n 1024
 brew cask install adoptopenjdk
 brew cask install xquartz
 brew install qgis
+brew cask install google-earth-pro
 
-#other
+
+#text
 brew cask install atom
 brew cask install sublime-text
+
+#git
 brew install git
 
+
+brew cask install postman
+brew cask install knime
+
+#DualGPU
+brew cask install steveschow-gfxcardstatus
