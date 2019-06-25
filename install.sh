@@ -74,3 +74,6 @@ brew cask install jasp
 brew cask install tidal
 brew cask install jamovi
 brew cask install rodeo
+brew cask install basictex
+brew cask install julia
+brew cask install knime
