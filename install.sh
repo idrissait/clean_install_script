@@ -77,3 +77,4 @@ brew cask install rodeo
 brew cask install basictex
 brew cask install julia
 brew cask install knime
+brew cask install nordvpn
