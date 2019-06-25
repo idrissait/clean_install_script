@@ -57,3 +57,20 @@ brew cask install knime
 
 #DualGPU
 brew cask install steveschow-gfxcardstatus
+
+
+
+brew cask install tidal
+brew cask install mendeley
+brew cask install google-earth-pro
+
+brew cask install anaconda
+brew cask install avast-security
+brew cask install dbeaver-community
+brew cask install kap
+brew cask install iina
+brew cask install gretl
+brew cask install jasp
+brew cask install tidal
+brew cask install jamovi
+brew cask install rodeo
