@@ -55,7 +55,7 @@ brew install git
 brew cask install postman
 brew cask install knime
 
-#DualGPU
+#DualGPU_MacBookPro15"
 brew cask install steveschow-gfxcardstatus
 
 
@@ -78,3 +78,5 @@ brew cask install basictex
 brew cask install julia
 brew cask install knime
 brew cask install nordvpn
+brew cask install Airtable tableau
+brew cask install rapidminer-studio
