@@ -80,3 +80,4 @@ brew cask install knime
 brew cask install nordvpn
 brew cask install Airtable tableau
 brew cask install rapidminer-studio
+brew cask install pycharm
